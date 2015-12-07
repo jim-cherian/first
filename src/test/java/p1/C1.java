@@ -14,6 +14,7 @@ public class C1 {
 		driver.close();
 		System.out.println("The test is completed");
 		System.out.println("There is a change in the code");
+		System.out.println("There is version 1.2 added to the code");
 	}
 
 }
