@@ -13,6 +13,7 @@ public class C1 {
 		driver.manage().window().maximize();
 		driver.close();
 		System.out.println("The test is completed");
+		System.out.println("There is a change in the code");
 	}
 
 }
